@@ -1,8 +1,3 @@
-
-
-
-
-
 # ✈️ DeskRadar ProUp
 
 > Real-time aircraft tracking for your desktop — powered by OpenSky Network.
