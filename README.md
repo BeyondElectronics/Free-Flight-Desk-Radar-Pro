@@ -118,8 +118,9 @@ Set your tracking center point using latitude and longitude coordinates.
 2. Enter your desired coordinates:
 
 ```
-Latitude:   [ e.g., 42.2211 ]
-Longitude:  [ e.g., -88.3162 ]
+O'Hare Airport
+Latitude:   [ e.g.,  41.979774 ]
+Longitude:  [ e.g., -87.909093 ]
 ```
 
 3. Tap **Save & Apply**. The map will re-center on your new location immediately.
