@@ -196,7 +196,7 @@ Once setup is complete, DeskRadar Pro operates automatically:
 | Device not connecting to WiFi | Incorrect password or unsupported network | Re-run WiFi setup via the setup hotspot |
 | Stale / frozen data | Lost internet connection | Check WiFi connection; reboot device |
 | Grid not appearing | Grid toggle is off | Enable via Settings → Display → Grid Overlay |
-| Coordinates not saving | Input format error | Use decimal format (e.g., `42.2211`, `-88.3162`) |
+| Coordinates not saving | Input format error | Use decimal format (e.g., `41.979774`, `-87.909093`) |
 | API key not accepted | Incorrect credentials | Double-check username/password on opensky-network.org |
 
 ---
